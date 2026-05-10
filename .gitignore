@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.venv/
+venv/
+uv.lock
+
+# Environment
+.env
+
+# Generated outputs (rebuilt by GitHub Actions)
+output/html/
+output/txt/
+output/index.html
+
+# User test scripts (deleted, kept for reference)
+crawl_and_send.py
+send_email.py
+send_email_final.py
+send_news_email.py
+simple_test.py
+claude_helper.py
+
+# OS
+.DS_Store
+Thumbs.db
